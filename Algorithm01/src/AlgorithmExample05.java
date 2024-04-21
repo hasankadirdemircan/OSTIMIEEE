@@ -5,6 +5,7 @@ public class AlgorithmExample05 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("1. sayıyı giriniz : ");
         int number1 = scanner.nextInt();
+
         System.out.println("2. sayıyı giriniz : ");
         int number2 = scanner.nextInt();
 

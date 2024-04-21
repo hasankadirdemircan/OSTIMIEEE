@@ -1,0 +1,12 @@
+
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÅÇì8²é‡ğ1
+7
+java:S1220""Move this file to a named package.8²é‡ğ1
+B
+java:S2129" Remove this "String" constructor(àıÓùşÿÿÿÿ8£²é‡ğ1
+F	java:S106"+Replace this use of System.out by a logger.(Ú‚u8¤²é‡ğ1
+G	java:S106
+"+Replace this use of System.out by a logger.(ä»†¼8¤²é‡ğ1
+F	java:S106"+Replace this use of System.out by a logger.(Ú‚u8¤²é‡ğ1
+G	java:S106"+Replace this use of System.out by a logger.(ä»†¼8¤²é‡ğ1

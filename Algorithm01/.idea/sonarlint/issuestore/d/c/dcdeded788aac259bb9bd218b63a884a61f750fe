@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(¼ãÌÏ8”ğ¶‡ğ1
+;
+java:S1659"Declare "b" on a separate line.(İ­T8‘º²‡ğ1
+G	java:S106"+Replace this use of System.out by a logger.(şÂÅ8–ğ¶‡ğ1
+G	java:S106"+Replace this use of System.out by a logger.(†×ùø8–ğ¶‡ğ1

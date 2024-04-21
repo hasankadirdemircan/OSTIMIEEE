@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8ëõÙİï1
+G
+java:S1659"%Declare "number2" on a separate line.(šèÍÜûÿÿÿÿ8ñõÙİï1
+G	java:S106	"+Replace this use of System.out by a logger.(Šˆ8óõÙİï1
+G	java:S106"+Replace this use of System.out by a logger.(ƒáæÚ8óõÙİï1
+G	java:S106"+Replace this use of System.out by a logger.(Í»ÖÏ8óõÙİï1
+G	java:S106"+Replace this use of System.out by a logger.(ÿú†â8´Şİİï1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8€ÅŞï1

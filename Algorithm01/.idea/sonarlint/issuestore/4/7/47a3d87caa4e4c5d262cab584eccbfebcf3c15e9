@@ -1,0 +1,24 @@
+
+7
+java:S1220""Move this file to a named package.8½ô‡ğ1
+Q
+java:S1854"5Remove this useless assignment to local variable "x".(ğúµ8•¦š‡ğ1
+Y
+java:S1854"<Remove this useless assignment to local variable "sayHello".(É¿®–8­•‡ğ1
+[
+java:S1854
+">Remove this useless assignment to local variable "intNumber2".(àîÉ£8Àô‡ğ1
+L	java:S106"+Replace this use of System.out by a logger.(ïşóıÿÿÿÿ8Áô‡ğ1
+L	java:S106"+Replace this use of System.out by a logger.(ŞŸ¨ûÿÿÿÿ8Áô‡ğ1
+L
+java:S1481
+"/Remove this unused "intNumber2" local variable.(àîÉ£8Áô‡ğ1
+J
+java:S1481"-Remove this unused "sayHello" local variable.(É¿®–8Ÿ­•‡ğ1
+B
+java:S1481"&Remove this unused "x" local variable.(ğúµ8–¦š‡ğ1
+G	java:S106"+Replace this use of System.out by a logger.(üË‚‚8½ì’‡ğ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ô³¶òøÿÿÿÿ8¢‡ğ1
+L	java:S106"+Replace this use of System.out by a logger.(úïòîûÿÿÿÿ8èìŸ‡ğ1
+[
+java:S3400"9Remove this method and declare a constant for this value.(ˆÚ£”úÿÿÿÿ8á¸Ÿ‡ğ1

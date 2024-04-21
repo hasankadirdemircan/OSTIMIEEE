@@ -1,0 +1,20 @@
+
+7
+java:S1220""Move this file to a named package.8Ã¦…ğ1
+X
+java:S1854";Remove this useless assignment to local variable "number2".(ˆØÓ´8Å¦…ğ1
+N
+java:S1481",Remove this unused "number1" local variable.(ı§¿Ÿúÿÿÿÿ8Æ¦…ğ1
+I
+java:S1481",Remove this unused "number2" local variable.(ˆØÓ´8Ç¦…ğ1
+D
+java:S1481
+"'Remove this unused "n1" local variable.(€¯²²8Ç¦…ğ1
+I
+java:S1481"'Remove this unused "n2" local variable.(±°ªãüÿÿÿÿ8Ç¦…ğ1
+I
+java:S1481"'Remove this unused "n3" local variable.(Ó¸¹Ãúÿÿÿÿ8Ç¦…ğ1
+C
+java:S1481"'Remove this unused "n4" local variable.(ßœòW8Ç¦…ğ1
+C
+java:S1481"'Remove this unused "tf" local variable.(‰Ât8È¦…ğ1

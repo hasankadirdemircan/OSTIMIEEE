@@ -1,0 +1,16 @@
+
+p
+java:S1192"NDefine a constant instead of duplicating this literal "(A) DeÄŸeri: " 3 times.(ò€ÃÄüÿÿÿÿ8—âÆ…ğ1
+7
+java:S1220""Move this file to a named package.8—âÆ…ğ1
+W
+java:S1854";Remove this useless assignment to local variable "number3".(Ä®ér8º Ç…ğ1
+f
+java:S1659"DDeclare "number2" and all following declarations on a separate line.(Îò©§øÿÿÿÿ8›âÆ…ğ1
+L	java:S106"+Replace this use of System.out by a logger.(ò€ÃÄüÿÿÿÿ8œâÆ…ğ1
+F	java:S106"+Replace this use of System.out by a logger.(Ä®ér8œâÆ…ğ1
+G	java:S106"+Replace this use of System.out by a logger.(âÎâ8œâÆ…ğ1
+L	java:S106
+"+Replace this use of System.out by a logger.(ÉŸèéúÿÿÿÿ8œâÆ…ğ1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ¡–8œâÆ…ğ1
+G	java:S106"+Replace this use of System.out by a logger.(Ä±®Ö8âÆ…ğ1

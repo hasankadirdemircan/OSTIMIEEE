@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8å®³…ð1
+L	java:S106"+Replace this use of System.out by a logger.(€ß¬¥ûÿÿÿÿ8ê®³…ð1
+L	java:S106"+Replace this use of System.out by a logger.(õ°ô«ûÿÿÿÿ8ê®³…ð1
+G	java:S106"+Replace this use of System.out by a logger.(©Ô»¥8ž¼¹…ð1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ë®³…ð1
