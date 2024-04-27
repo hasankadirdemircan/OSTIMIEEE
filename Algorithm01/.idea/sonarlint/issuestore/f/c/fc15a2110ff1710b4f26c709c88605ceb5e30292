@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8€·Õýñ1
+©
+java:S2681
+"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Èá·þýÿÿÿÿ8á±îýñ1
+]	java:S125"<This block of commented-out lines of code should be removed.(´Œ÷úúÿÿÿÿ8æëíýñ1
+L	java:S106
+"+Replace this use of System.out by a logger.(Èá·þýÿÿÿÿ8ˆ·Õýñ1
+L	java:S106"+Replace this use of System.out by a logger.(÷³ƒ„üÿÿÿÿ8®¦úýñ1
