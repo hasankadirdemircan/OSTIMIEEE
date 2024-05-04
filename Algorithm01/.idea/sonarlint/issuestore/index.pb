@@ -75,3 +75,9 @@ T
 $src/functions/FunctionExample04.java,1/2/120b2162dcb1f8542a36577280435559dbdfa18b
 T
 $src/functions/FunctionExample05.java,c/c/cc708ecd7491e46c74dd349d8a71c953103e3988
+T
+$src/functions/FunctionExample06.java,f/b/fb072b16ef7e8b4ce2bc57108367d3b3641d6fcc
+T
+$src/functions/FunctionExample07.java,1/c/1cf836eb18803456fd2ffae2c231d62179449d16
+T
+$src/functions/FunctionExample08.java,d/4/d48aa8d9924bb7916bc8784d78ba152f13f4d707
