@@ -1,0 +1,12 @@
+
+7
+java:S1220""Move this file to a named package.8ÿ·¨œô1
+L
+java:S1197"*Move the array designators [] to the type.(ýÐç øÿÿÿÿ8”¸¨œô1
+G
+java:S1197"*Move the array designators [] to the type.(»í‚ˆ8”¸¨œô1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ð°»þ8•¸¨œô1
+W	java:S125"<This block of commented-out lines of code should be removed.(™€ðZ8•¸¨œô1
+]	java:S125"<This block of commented-out lines of code should be removed.(ý†–Äúÿÿÿÿ8•¸¨œô1
+G	java:S106"+Replace this use of System.out by a logger.(¡ò³8•¸¨œô1
+G	java:S106"+Replace this use of System.out by a logger.(œ–ÒŠ8ì¹œô1
