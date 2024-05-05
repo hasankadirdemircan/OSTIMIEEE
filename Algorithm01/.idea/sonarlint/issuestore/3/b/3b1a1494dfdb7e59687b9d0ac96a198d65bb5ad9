@@ -1,0 +1,9 @@
+
+d
+java:S2259"BA "NullPointerException" could be thrown; "name" is nullable here.(‡öº«ûÿÿÿÿ8ÜüÔÈô1
+Z
+java:S1854"8Remove this useless assignment to local variable "name".(‡öº«ûÿÿÿÿ8ŞüÔÈô1
+G	java:S106"+Replace this use of System.out by a logger.(Ğ…ÜĞ8àüÔÈô1
+L	java:S106
+"+Replace this use of System.out by a logger.(µÑâğøÿÿÿÿ8àüÔÈô1
+F	java:S106"+Replace this use of System.out by a logger.(úÓßD8àüÔÈô1

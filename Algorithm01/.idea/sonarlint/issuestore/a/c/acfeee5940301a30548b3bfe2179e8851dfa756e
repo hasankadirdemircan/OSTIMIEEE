@@ -1,0 +1,6 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(â¯Àˆøÿÿÿÿ8ºÈ¼Åô1
+L	java:S106"+Replace this use of System.out by a logger.(ó§ë½üÿÿÿÿ8¼È¼Åô1
+P
+java:S1144".Remove this unused private "sayHello5" method.(Ý÷Í­úÿÿÿÿ8¶‰¿Åô1

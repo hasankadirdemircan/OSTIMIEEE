@@ -1,0 +1,11 @@
+
+e
+java:S3518"CMake sure this expression can't be zero before doing this division.(®ÿ‚Ìÿÿÿÿÿ8À‘ÏÈô1
+\
+java:S1854":Remove this useless assignment to local variable "result".(®ÿ‚Ìÿÿÿÿÿ8Á‘ÏÈô1
+M
+java:S1481"+Remove this unused "result" local variable.(®ÿ‚Ìÿÿÿÿÿ8á×ÏÈô1
+G	java:S106
+"+Replace this use of System.out by a logger.(òçø8ÂÍĞÈô1
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8¬ÍÒÈô1
+L	java:S106"+Replace this use of System.out by a logger.(ğõµşÿÿÿÿ8¬ÍÒÈô1
