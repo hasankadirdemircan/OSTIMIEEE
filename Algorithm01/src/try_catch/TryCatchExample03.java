@@ -5,7 +5,6 @@ public class TryCatchExample03 {
         TryCatchExample03 uncaughtException = new TryCatchExample03();
         String name = null;
         uncaughtException.method1(name);
-        System.out.println("main");
     }
 
     public void method1(String name) {
@@ -20,13 +19,7 @@ public class TryCatchExample03 {
 
     public void method2(String name) {
         System.out.println("method2");
-
-        try{
-            method3(name);
-        }catch (Exception e) {
-            System.out.println("yakaladım method2");
-        }
-
+        method3(name);
         System.out.println("method2 not work!");
     }
 
