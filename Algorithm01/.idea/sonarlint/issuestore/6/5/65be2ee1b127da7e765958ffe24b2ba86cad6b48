@@ -1,0 +1,8 @@
+
+I
+java:S1481
+"-Remove this unused "previous" local variable.(ãš™r8Éòú½ö1
+X	java:S125"<This block of commented-out lines of code should be removed.(é¡‹Ô8Êòú½ö1
+X	java:S125"<This block of commented-out lines of code should be removed.(‹Ò»€8Êòú½ö1
+G	java:S106"+Replace this use of System.out by a logger.(øÃˆ8Êòú½ö1
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Êòú½ö1
