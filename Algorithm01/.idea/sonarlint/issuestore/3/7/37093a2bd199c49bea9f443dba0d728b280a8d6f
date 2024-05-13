@@ -1,0 +1,13 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "d".(üÍº‚úÿÿÿÿ8ø†Âèö1
+R
+java:S1854"5Remove this useless assignment to local variable "d".(©Òè8ø†Âèö1
+L	java:S106"+Replace this use of System.out by a logger.(ËÑÅšùÿÿÿÿ8ù†Âèö1
+L	java:S106	"+Replace this use of System.out by a logger.(ÏŒÓíÿÿÿÿÿ8ù†Âèö1
+B
+java:S1481"&Remove this unused "d" local variable.(¡–¨<8ú†Âèö1
+L	java:S106"+Replace this use of System.out by a logger.(³‡Æ„ùÿÿÿÿ8û†Âèö1
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(ÁÇ¾Ğ8û†Âèö1
+L	java:S106"+Replace this use of System.out by a logger.(¾ãòóùÿÿÿÿ8û†Âèö1
