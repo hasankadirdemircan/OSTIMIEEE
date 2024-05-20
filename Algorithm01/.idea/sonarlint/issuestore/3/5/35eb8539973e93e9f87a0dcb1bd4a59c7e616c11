@@ -1,0 +1,37 @@
+
+>
+java:S2129"!Remove this "Boolean" constructor(¿Ñù8‡¾¾†ù1
+G	java:S106
+"+Replace this use of System.out by a logger.(“Õ¢‰8ˆ¾¾†ù1
+G	java:S106"+Replace this use of System.out by a logger.(—Þ“8ˆ¾¾†ù1
+G	java:S106"+Replace this use of System.out by a logger.(Ðº§µ8ˆ¾¾†ù1
+L	java:S106"+Replace this use of System.out by a logger.(°¢àÕýÿÿÿÿ8ˆ¾¾†ù1
+L	java:S106"+Replace this use of System.out by a logger.(—üâþÿÿÿÿ8ˆ¾¾†ù1
+L	java:S106"+Replace this use of System.out by a logger.(òèÞûùÿÿÿÿ8ˆ¾¾†ù1
+@
+java:S2129"Remove this "Byte" constructor(Àûá¨ýÿÿÿÿ8‰¾¾†ù1
+L	java:S106"+Replace this use of System.out by a logger.(‰‚ÊÖÿÿÿÿÿ8‰¾¾†ù1
+L	java:S106"+Replace this use of System.out by a logger.(Ò¾µàýÿÿÿÿ8‰¾¾†ù1
+G	java:S106"+Replace this use of System.out by a logger.(®„þÜ8‰¾¾†ù1
+>
+java:S2129"!Remove this "Integer" constructor( ûúº8Š¾¾†ù1
+G	java:S106"+Replace this use of System.out by a logger.(·ÐöÖ8Š¾¾†ù1
+F	java:S106"+Replace this use of System.out by a logger.(Ü‰‹H8‹¾¾†ù1
+L	java:S106"+Replace this use of System.out by a logger.(¥´ïöøÿÿÿÿ8‹¾¾†ù1
+A
+java:S2129""Remove this "Float" constructor(•èÅ¥ùÿÿÿÿ8‹¾¾†ù1
+<
+java:S2129#"Remove this "Float" constructor(‘¤ÀÏ8‹¾¾†ù1
+F	java:S106&"+Replace this use of System.out by a logger.(±²ÆM8Œ¾¾†ù1
+G	java:S106'"+Replace this use of System.out by a logger.(ø˜â8Œ¾¾†ù1
+G	java:S106("+Replace this use of System.out by a logger.(²ÝÆÐ8Œ¾¾†ù1
+G	java:S106)"+Replace this use of System.out by a logger.(¹¨Îë8Œ¾¾†ù1
+G	java:S106*"+Replace this use of System.out by a logger.(¶•’Ì8Œ¾¾†ù1
+G	java:S106+"+Replace this use of System.out by a logger.(‹›ç€8Œ¾¾†ù1
+@
+java:S2129-"#Remove this "Character" constructor(±íÿ¢8¾¾†ù1
+@
+java:S2129."#Remove this "Character" constructor(Õ²Ã¶8¾¾†ù1
+G	java:S106/"+Replace this use of System.out by a logger.(û·´¸8¾¾†ù1
+L	java:S1060"+Replace this use of System.out by a logger.(ªËô‡ùÿÿÿÿ8¾¾†ù1
+G	java:S1061"+Replace this use of System.out by a logger.(‡­Êô8¾¾†ù1

@@ -1,0 +1,29 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "int2".(ù£ëµúÿÿÿÿ8ƒØè†ù1
+[
+java:S1854"9Remove this useless assignment to local variable "byte1".(¹®ò»ıÿÿÿÿ8ƒØè†ù1
+Z
+java:S1854"8Remove this useless assignment to local variable "int1".(ÂŸ–ìùÿÿÿÿ8ƒØè†ù1
+^
+java:S1854"<Remove this useless assignment to local variable "boolean3".(¥ÒÓéøÿÿÿÿ8ƒØè†ù1
+Y
+java:S1854"<Remove this useless assignment to local variable "boolean2".(ïò‹Ù8ƒØè†ù1
+^
+java:S1854"<Remove this useless assignment to local variable "boolean1".(³‚—¹ûÿÿÿÿ8ƒØè†ù1
+G	java:S106"+Replace this use of System.out by a logger.(«­±8„Øè†ù1
+O
+java:S1481"-Remove this unused "boolean1" local variable.(³‚—¹ûÿÿÿÿ8„Øè†ù1
+J
+java:S1481"-Remove this unused "boolean2" local variable.(ïò‹Ù8„Øè†ù1
+O
+java:S1481"-Remove this unused "boolean3" local variable.(¥ÒÓéøÿÿÿÿ8…Øè†ù1
+G	java:S106"+Replace this use of System.out by a logger.(ø˜â8…Øè†ù1
+=
+java:S2129"!Remove this "Integer" constructor(íèä48µÛï†ù1
+K
+java:S1481")Remove this unused "int1" local variable.(ÂŸ–ìùÿÿÿÿ8…Øè†ù1
+L
+java:S1481"*Remove this unused "byte1" local variable.(¹®ò»ıÿÿÿÿ8†Øè†ù1
+K
+java:S1481")Remove this unused "int2" local variable.(ù£ëµúÿÿÿÿ8†Øè†ù1

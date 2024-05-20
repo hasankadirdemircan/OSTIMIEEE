@@ -1,0 +1,25 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "unboxing".(ª¬œ«8ÚÃı†ù1
+b
+java:S1854"@Remove this useless assignment to local variable "autoUnBoxing".(úÛîÂùÿÿÿÿ8ÚÃı†ù1
+X
+java:S1854
+";Remove this useless assignment to local variable "boxing2".(‡íÓÁ8ÚÃı†ù1
+\
+java:S1854	":Remove this useless assignment to local variable "boxing".(á¨ÖÍúÿÿÿÿ8ÚÃı†ù1
+`
+java:S1854">Remove this useless assignment to local variable "autoboxing".(¦†»ùùÿÿÿÿ8ÚÃı†ù1
+Q
+java:S1481"/Remove this unused "autoboxing" local variable.(¦†»ùùÿÿÿÿ8ÛÃı†ù1
+C
+java:S2129	"!Remove this "Integer" constructor(á¨ÖÍúÿÿÿÿ8ÛÃı†ù1
+M
+java:S1481	"+Remove this unused "boxing" local variable.(á¨ÖÍúÿÿÿÿ8ÛÃı†ù1
+I
+java:S1481
+",Remove this unused "boxing2" local variable.(‡íÓÁ8ÜÃı†ù1
+S
+java:S1481"1Remove this unused "autoUnBoxing" local variable.(úÛîÂùÿÿÿÿ8ÜÃı†ù1
+J
+java:S1481"-Remove this unused "unboxing" local variable.(ª¬œ«8ÜÃı†ù1
